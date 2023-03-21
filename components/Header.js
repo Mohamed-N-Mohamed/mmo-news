@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className='header-background  h-screen flex justify-center items-center relativ'>
+    <div className='header-background  h-screen flex justify-center items-center relative'>
       <div className='overlay absolute top-0 right-0 left-0 bg-black/70 h-full' />
       <div className='header-text text-white z-10 p-4 text-center'>
         <h1 className='text-xl md:text-3xl pb-2'>Welcome to MMO News</h1>
